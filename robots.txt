@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-r5izxl.indocuan-pro.cfd/sitemap.xml
